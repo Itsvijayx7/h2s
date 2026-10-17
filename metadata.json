@@ -1,0 +1,6 @@
+{
+  "name": "Aura Wealth",
+  "description": "Ambient wealth management and AI-guided personal finance with real-time net worth tracking, automated bill obligations, smart budgeting, and predictive insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
